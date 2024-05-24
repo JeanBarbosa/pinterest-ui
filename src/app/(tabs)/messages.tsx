@@ -1,10 +1,10 @@
 import { View, StyleSheet, Text } from "react-native"
 import { theme } from "@/theme"
 
-export default function Home() {
+export default function Messages() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Ola mundo!</Text>
+      <Text style={styles.text}>Messages</Text>
     </View>
   )
 }
