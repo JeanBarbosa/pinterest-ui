@@ -22,4 +22,9 @@ export const styles = StyleSheet.create({
     marginRight: 24,
   },
   iconClose: {},
+  options: {
+    flexDirection: "row",
+    gap: 16,
+    marginTop: 32,
+  },
 })
